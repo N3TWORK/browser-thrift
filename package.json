@@ -5,7 +5,7 @@
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/N3TWORK//browser-thrift.git"
+    "url": "git+https://github.com/N3TWORK/browser-thrift.git"
   },
   "keywords": [
     "thrift",
