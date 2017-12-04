@@ -1,11 +1,11 @@
 {
   "name": "browser-thrift",
-  "version": "0.6.3",
+  "version": "0.6.5",
   "description": "Thrift binding for browser",
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vh/browser-thrift.git"
+    "url": "git+https://github.com/N3TWORK//browser-thrift.git"
   },
   "keywords": [
     "thrift",
